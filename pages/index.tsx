@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 const Home: NextPage = () => {
   return (
     <>
-      <h1 className='text-center text-5xl'>Coming soon...</h1>
+      <h1 className='text-center text-5xl'>Edited file to check ci/cd pipeline working... </h1>
     </>
   )
 }
