@@ -4,7 +4,7 @@ import About from '../../components/about/About'
 const index = () => {
   return (
     <>
-    <div className='text-center text-3xl'>This is the about page</div>
+    <h1 className='text-center text-4xl'>This is the about page</h1>
     <About />
     </>
   )
