@@ -2,7 +2,9 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div>This is from about component</div>
+    <div>
+      <p>This is from about component</p>
+    </div>
   )
 }
 
